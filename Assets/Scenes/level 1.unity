@@ -785,6 +785,8 @@ MonoBehaviour:
   - toys
   - games
   - hope
+  - caves
+  - words
 --- !u!4 &798157835
 Transform:
   m_ObjectHideFlags: 0

@@ -20,7 +20,7 @@ public class Play : MonoBehaviour
 
 	public void playGame()
 	{
-		SceneManager.LoadScene(2);
+		SceneManager.LoadScene("level 4");
 
 	}
 }

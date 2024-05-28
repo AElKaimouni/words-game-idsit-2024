@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\A_El_Kaimouni\\words\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|C:\\Users\\A_El_Kaimouni\\words\\assets\\scripts\\managerkata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managerkata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|c:\\users\\a_el_kaimouni\\words\\assets\\level 2\\scripts\\gamemangerlvl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\level 2\\scripts\\gamemangerlvl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|c:\\users\\a_el_kaimouni\\words\\assets\\scripts\\dragscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|c:\\users\\a_el_kaimouni\\words\\assets\\level 4 \u0026 5\\wordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\level 4 \u0026 5\\wordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|C:\\Users\\A_El_Kaimouni\\words\\assets\\level 4 \u0026 5\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\level 4 \u0026 5\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|C:\\Users\\A_El_Kaimouni\\words\\assets\\level 4 \u0026 5\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\level 4 \u0026 5\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|C:\\Users\\A_El_Kaimouni\\words\\assets\\level 4 \u0026 5\\wordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\level 4 \u0026 5\\wordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|C:\\Users\\A_El_Kaimouni\\words\\assets\\level 4 \u0026 5\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\level 4 \u0026 5\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|c:\\users\\a_el_kaimouni\\words\\assets\\videoendscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\videoendscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|C:\\Users\\A_El_Kaimouni\\words\\assets\\scripts\\managerkata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managerkata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|C:\\Users\\A_El_Kaimouni\\words\\assets\\scripts\\dragscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|C:\\Users\\A_El_Kaimouni\\words\\assets\\level 4 \u0026 5\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +51,12 @@
       "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\level 4 \u0026 5\\wordinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|C:\\Users\\A_El_Kaimouni\\words\\assets\\level 4 \u0026 5\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\level 4 \u0026 5\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|C:\\Users\\A_El_Kaimouni\\words\\assets\\scripts\\gotosceneonclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gotosceneonclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|C:\\Users\\A_El_Kaimouni\\words\\assets\\level 3\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\level 3\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|C:\\Users\\A_El_Kaimouni\\words\\assets\\level 2\\scripts\\gamemangerlvl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|solutionrelative:assets\\level 2\\scripts\\gamemangerlvl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D22519A-2B18-B1F2-EABD-8AEFAC1306B8}|Assembly-CSharp.csproj|C:\\Users\\A_El_Kaimouni\\words\\assets\\level 2\\scripts\\dragscriptlvl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +74,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "VideoEndScript.cs",
+              "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\VideoEndScript.cs",
+              "RelativeDocumentMoniker": "Assets\\VideoEndScript.cs",
+              "ToolTip": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\VideoEndScript.cs",
+              "RelativeToolTip": "Assets\\VideoEndScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:01:16.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DragScript.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Scripts\\DragScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DragScript.cs",
@@ -82,12 +99,11 @@
               "RelativeToolTip": "Assets\\Scripts\\DragScript.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAowEAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T09:39:05.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T09:39:05.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "WordSpawner.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 4 \u0026 5\\WordSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Level 4 \u0026 5\\WordSpawner.cs",
@@ -99,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "WordInput.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 4 \u0026 5\\WordInput.cs",
               "RelativeDocumentMoniker": "Assets\\Level 4 \u0026 5\\WordInput.cs",
@@ -111,32 +127,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Play.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 4 \u0026 5\\Play.cs",
               "RelativeDocumentMoniker": "Assets\\Level 4 \u0026 5\\Play.cs",
               "ToolTip": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 4 \u0026 5\\Play.cs",
               "RelativeToolTip": "Assets\\Level 4 \u0026 5\\Play.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAAAYAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T01:27:35.692Z"
+              "WhenOpened": "2024-04-23T01:27:35.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WordManager.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 4 \u0026 5\\WordManager.cs",
               "RelativeDocumentMoniker": "Assets\\Level 4 \u0026 5\\WordManager.cs",
               "ToolTip": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 4 \u0026 5\\WordManager.cs",
               "RelativeToolTip": "Assets\\Level 4 \u0026 5\\WordManager.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAYwDIAAAA1AAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T01:16:56.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GameOver.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 4 \u0026 5\\GameOver.cs",
               "RelativeDocumentMoniker": "Assets\\Level 4 \u0026 5\\GameOver.cs",
@@ -144,7 +161,8 @@
               "RelativeToolTip": "Assets\\Level 4 \u0026 5\\GameOver.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T01:16:07.792Z"
+              "WhenOpened": "2024-04-23T01:16:07.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -156,11 +174,12 @@
               "RelativeToolTip": "Assets\\Level 4 \u0026 5\\Score.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T01:15:38.333Z"
+              "WhenOpened": "2024-04-23T01:15:38.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "GoToSceneOnClick.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Scripts\\GoToSceneOnClick.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GoToSceneOnClick.cs",
@@ -172,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ManagerKata.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Scripts\\ManagerKata.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ManagerKata.cs",
@@ -180,12 +199,11 @@
               "RelativeToolTip": "Assets\\Scripts\\ManagerKata.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T21:49:15.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T21:49:15.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "WordTimer.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 4 \u0026 5\\WordTimer.cs",
               "RelativeDocumentMoniker": "Assets\\Level 4 \u0026 5\\WordTimer.cs",
@@ -197,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 4 \u0026 5\\Main.cs",
               "RelativeDocumentMoniker": "Assets\\Level 4 \u0026 5\\Main.cs",
@@ -209,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "score.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 3\\score.cs",
               "RelativeDocumentMoniker": "Assets\\Level 3\\score.cs",
@@ -221,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AudioScript.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 2\\Scripts\\AudioScript.cs",
               "RelativeDocumentMoniker": "Assets\\Level 2\\Scripts\\AudioScript.cs",
@@ -233,19 +251,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "GameMangerLvl2.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 2\\Scripts\\GameMangerLvl2.cs",
               "RelativeDocumentMoniker": "Assets\\Level 2\\Scripts\\GameMangerLvl2.cs",
               "ToolTip": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 2\\Scripts\\GameMangerLvl2.cs",
               "RelativeToolTip": "Assets\\Level 2\\Scripts\\GameMangerLvl2.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAkwFwAAAASAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAlwDsAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T23:11:39.204Z"
+              "WhenOpened": "2024-04-22T23:11:39.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "DragScriptLvl2.cs",
               "DocumentMoniker": "C:\\Users\\A_El_Kaimouni\\words\\Assets\\Level 2\\Scripts\\DragScriptLvl2.cs",
               "RelativeDocumentMoniker": "Assets\\Level 2\\Scripts\\DragScriptLvl2.cs",

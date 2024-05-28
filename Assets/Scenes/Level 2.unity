@@ -1222,12 +1222,22 @@ MonoBehaviour:
   - Exploration
   - Glowing
   - Sparkling
+  - Whisper
+  - Luminous
+  - Treasure
+  - Secret
+  - Glimmer
   audioList:
   - {fileID: 8300000, guid: ceee4a2430972bf498066e2702549494, type: 3}
   - {fileID: 8300000, guid: b33977a86f533db49a335c3c8212fde7, type: 3}
   - {fileID: 8300000, guid: 7369dd419187cfe40a300e4705ec80db, type: 3}
   - {fileID: 8300000, guid: bcdcba9269ae1c8499f8fb920744f4d6, type: 3}
   - {fileID: 8300000, guid: 69bd9072873f2094789b85bed6ccf93a, type: 3}
+  - {fileID: 8300000, guid: 84050b3edf27958439e946c671591a53, type: 3}
+  - {fileID: 8300000, guid: ec1a6bb22be4f754cac102c405daac51, type: 3}
+  - {fileID: 8300000, guid: 61a5228a75b658449a205d70f6611c10, type: 3}
+  - {fileID: 8300000, guid: edd148fd41b755141924a6cb64cfa6b7, type: 3}
+  - {fileID: 8300000, guid: 90e612647c0616247adc7ee4255be8ee, type: 3}
   level: 0
 --- !u!4 &2057883010
 Transform:

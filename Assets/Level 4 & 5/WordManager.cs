@@ -48,7 +48,7 @@ public class WordManager : MonoBehaviour {
             hasActiveWord = false;
 			words.Remove(activeWord);
 
-			if (score == 3) SceneManager.LoadScene("Level 5");
+			if (score == 7) SceneManager.LoadScene("Level 5");
 		}
 	}
 }

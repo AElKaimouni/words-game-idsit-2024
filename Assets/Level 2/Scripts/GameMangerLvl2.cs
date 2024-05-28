@@ -57,7 +57,7 @@ public class GameManagerLvl2 : MonoBehaviour
             // hurufAcak[i] = hurufKataCopy[randomIndex];
             // hurufKataCopy.RemoveAt(randomIndex);
 
-
+            availableLetters.Remove(hurufKata[letter]);
 
             if (i == position)
             {
@@ -94,6 +94,7 @@ public class GameManagerLvl2 : MonoBehaviour
         } else
         {
             level++;
+            availableLetters = new List<char>() { 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z' };
 
             for (int i = slotAkhir.transform.childCount - 1; i >= 0; i--)
             {
